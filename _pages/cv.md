@@ -48,17 +48,47 @@ Operations Engineering Intern
   * Led manufacturing review and quality control checks of space hardware housing the first ever 3D printer of human organs, launched on the Falcon 9 and in orbit today onboard the International Space Station
   * Assisted in fabrication of space hardware working with a team of 10 machinists
 
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Service and leadership
+
+ Technical Skills & Languages
+======
+* Computer Languages 
+  * C
+  * C ++
+  * Python
+  * Java
+  * Arduino
+  * x86 Assembly
+  * PyTorch
+  * SQL
+  * PHP
+  * bash
+  * git
+  * NumPy
+  * HTML
+  * CSS
+  * JSON
+  * XPS 
+  * PANDAS
+ 
+* CAD & Manufacturing
+  * AutoCAD
+  * SOLIDWORKS
+  * Eagle
+  * Fusion
+  * Inventor
+  * CNC machine programming (G Code)
+  * Hand-drafting using GD&T and ASTM standards
+  * Machining and Prototyping
+
+* Languages
+  * French (Conversational Proficient)
+  * Mandarin (Fair)
+  * German (Fair)
+
+
+
+Service & Leadership
 ======
 
 ### Boston University Mathematical Association of America
@@ -84,10 +114,12 @@ Service and leadership
   * Developed and taught Python courses to 10-15 students on blockchain technology
   * Led 10 blockchain-oriented seminars and hackathons for the club and university per year
 
+
 ### Boston University Directed Reading Program-Department of Mathematics and Statistics 
 * Mentee
   * Implemented a simple deep neural network and presented project to 40 members of the Math Department
   * Weekly graduate student led discussion of readings and mathematical understanding relating to deep learning
+
 
 
 Publications
