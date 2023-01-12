@@ -16,18 +16,6 @@ Education
 
 Work experience 
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-
-
 * Boston University Morphable Biorobotics Lab (MBL) & Boston Children’s Hospital (BCH) 
   * Research Assistant
   * Designed and created a PID closed loop controller with Simulation Open Framework Architecture (SOFA) in Python and the Aurora
@@ -37,8 +25,9 @@ Work experience
 * Dartmouth College Learning Intelligence and Signal Processing Lab (LISP)
   * Research Assistant
   * Worked to develop multivariate time series forecasting model for predicting the number of geopolitical events across the world as part of the Pennsylvania State University ATD 2022 NSF challenge; our model placed second in the competition; submitted paper to top conference
-  * Experimented with various modeling techniques including CNNs, transformers, informers, CoAtNet, ARIMA and others Professor Jonathan Appavoo, Ph.D. University of Toronto, Computer Science
-Contributor
+  * Experimented with various modeling techniques including CNNs, transformers, informers, CoAtNet, ARIMA and others 
+* Professor Jonathan Appavoo, Ph.D. University of Toronto, Computer Science
+  * Contributor
   * Helped in developing Under the Covers: The Secret Life of Software chapter summaries, examples, and exercises
   * Textbook focuses on Unix, the von Neumann architecture, machine level programming and C; it is the course textbook for CS 210 at BU Surfside Solutions
 Operations Engineering Intern
