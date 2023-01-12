@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.A. in Mathematics, Compiuter Science; Boston University, 2022
+* GPA 3.71/4.0 - Cum Laude
 
 Work experience 
 ======
