@@ -1,18 +1,14 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+  name        : "Griffin A. Heyrich"
+  uri         : "griffinandrew.github.io"
+  email       : "gheyrich@bu.edu"
+  bio         : "Applied Mathematics & Computer Science student at Boston University with a background in Advanced Manufacturing and Mechanical Engineering Design. Currently working as a Research Assistant at BU Morphable Robotics Lab specializing in soft robotic control systems and Dartmouth LISP working on multivariate time series forecasting models."
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
 
 Name2 Name2:
   name        : "Name2 Name2"
   email       : "name2@name2.com"
   bio         : "I ordered what?"
   avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
