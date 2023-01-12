@@ -2,12 +2,19 @@
 title: "Under the Covers: The Secret Life of Software"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This free, online textbook is the the course text for CS 210 Introduction to Computing Systems at Bostion University.'
+excerpt: 'This free, online textbook is the the course text for CS 210 Introduction to Computing Systems at Bostion University.
+
+The material in this textbook is broken down into three parts:
+1. The Unix Software development environment
+2. The Belly of the Beast: The von Neumann Architecture and assembly programming
+3. Into the Light: C Programming'
 date: 2021-12-01
 venue: 'Github Pages'
 paperurl: 'https://jappavoo.github.io/UndertheCovers/textbook/intro_tb.html'
 citation: 'Appavoo, Jonathan et al. “Under the Covers : The Secret Life of Software — UndertheCovers". https://jappavoo.github.io/UndertheCovers/textbook/intro_tb.htm” GitHub Pages.'
 ---
+This free, online textbook is the the course text for CS 210 Introduction to Computing Systems at Bostion University. 
+
 The material in this textbook is broken down into three parts:
 1. The Unix Software development environment
 2. The Belly of the Beast: The von Neumann Architecture and assembly programming
