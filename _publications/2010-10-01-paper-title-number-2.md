@@ -2,7 +2,7 @@
 title: "Under the Covers: The Secret Life of Software"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This free, online textbook is the the course text for CS 210 Introduction to Computing Systems at Bostion University'
+excerpt: 'This free, online textbook is the the course text for CS 210 Introduction to Computing Systems at Bostion University.'
 date: 2021-12-01
 venue: 'Github Pages'
 paperurl: 'https://jappavoo.github.io/UndertheCovers/textbook/intro_tb.html'
