@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Griffin A. Heyrich"
   avatar           : "profile.png"
-  bio              : "Prospective Computer Science Ph.d. Student. Computer Science and Mathematics @ Boston U Alumni"
+  bio              : "Prospective Computer Science Ph.D. Student. Computer Science and Mathematics @ Boston U Alumni"
   location         : "Boston, MA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "gheyrich@bu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
