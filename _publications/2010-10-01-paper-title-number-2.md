@@ -1,12 +1,12 @@
 ---
-title: Under the Covers: The Secret Life of Software"
+title: "Under the Covers: The Secret Life of Software"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Journal 1'
-#paperurl: 'https://jappavoo.github.io/UndertheCovers/textbook/intro_tb.html'
-citation: 'Appavoo, Jonathan et al. “Under the Covers : The Secret Life of Software — UndertheCovers.” GitHub Pages.'
+paperurl: 'https://jappavoo.github.io/UndertheCovers/textbook/intro_tb.html'
+citation: 'Appavoo, Jonathan et al. “Under the Covers : The Secret Life of Software — UndertheCovers". https://jappavoo.github.io/UndertheCovers/textbook/intro_tb.htm” GitHub Pages.'
 ---
 
 The material in this textbook is broken down into three parts:
